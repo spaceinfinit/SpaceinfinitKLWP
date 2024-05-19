@@ -248,7 +248,18 @@
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,landscapes"
+	},
+	
+			{
+		"name": "Pinterest",
+   "author": "Armin Rhm",
+		"url": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKLWP/main/Space%20027.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/spaceinfinit/SpaceinfinitKLWP/main/Space%20027.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "Free (do whatever you want)",
+		"collections": "featured,landscapes"
 	}
+	 
 
 
 ]
