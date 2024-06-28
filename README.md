@@ -1,3 +1,3 @@
 # SpaceinfinitKWGT
 
-Olá Projeto em Desenvolvimento, refere-se a KLWP e KWGT.
+Hello Project in Development, refers to KLWP and KWGT.
